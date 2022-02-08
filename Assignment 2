@@ -1,0 +1,6 @@
+km=int(input("Enter the distance:"))
+cm=(km*100000)
+print("the centimeter is:",cm)
+Output:
+Enter the distance:300
+the centimeter is: 30000000
